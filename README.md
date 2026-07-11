@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff"></a> 
 <a href="mailto:affanmustafa909@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=fff"></a>
-<a href="https://wa.me/+923079800829?text=Hi%20Basit%2C%20I%20found%20you%20via%20GitHub" target="_blank">
+<a href="https://wa.me/+923079800829?text=Hi%20Affan%2C%20I%20found%20you%20via%20GitHub" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=fff"></a>  
 
 </div>
@@ -102,53 +102,56 @@
 
 ## 🏆 Featured Projects
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=electron" height="70"/><br>
+      <img src="https://img.shields.io/badge/Enterprise_POS_System-4F46E5?style=for-the-badge&logo=electron&logoColor=white"><br><br>
       <strong>Enterprise POS System</strong><br>
       Desktop POS with billing, inventory, waiter & rider management.<br><br>
       <strong>Electron • React • PostgreSQL</strong>
     </td>
 
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=react" height="70"/><br>
-      <strong>Travel Management System</strong><br>
-      Flight booking platform with admin dashboard and ticket management.<br><br>
-      <strong>PERN Stack</strong>
-    </td>
+  <img src="https://img.shields.io/badge/Travel_Management-2563EB?style=for-the-badge&logo=react&logoColor=white"><br><br>
+  <strong>Travel Management System</strong><br>
+  Flight booking platform with admin dashboard, ticket management, and secure authentication.<br><br>
+  <strong>React • Express • PostgreSQL • Prisma</strong>
+</td>
+
 
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="70"/><br>
-      <strong>E-Commerce Platform</strong><br>
-      Modern online store with CMS, order management, and payment integration.<br><br>
-      <strong>Next.js • Prisma</strong>
-    </td>
+  <img src="https://img.shields.io/badge/E--Commerce_Platform-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><br><br>
+  <strong>E-Commerce Platform</strong><br>
+  Modern e-commerce website with CMS, product management, orders, and payment integration.<br><br>
+  <strong>Next.js • React • PostgreSQL • Prisma</strong>
+</td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="70"/><br>
+      <img src="https://img.shields.io/badge/MindEase_AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"><br><br>
       <strong>MindEase AI</strong><br>
       AI-powered mental wellness platform with chat and mood tracking.<br><br>
       <strong>React • Node.js</strong>
     </td>
- 
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="70"/><br>
-      <strong>Nexvanta Agency</strong><br>
-      Business website for AI, software, and digital solutions.<br><br>
-      <strong>Next.js • Tailwind</strong>
-    </td>
 
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" height="70"/><br>
-      <strong>Open to Collaboration</strong><br>
-      Building scalable web applications and enterprise software.<br><br>
-      <strong>Let's Build Together 🚀</strong>
-    </td>
+   <td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Nexvanta_Agency-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white"><br><br>
+  <strong>Nexvanta Agency</strong><br>
+  Premium business website showcasing AI, software development, SEO, and digital solutions.<br><br>
+  <strong>Next.js • Tailwind CSS • PostgreSQL</strong>
+</td>
+
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Open_to_Collaborate-22C55E?style=for-the-badge&logo=github&logoColor=white"><br><br>
+  <strong>Open to Collaboration</strong><br>
+  Open to Full-Stack Development, Enterprise Software, SaaS products, and open-source collaborations.<br><br>
+  <strong>PERN Stack • React • Node.js</strong>
+</td>
+
   </tr>
 </table>
+
 <h3 align="center">
 ⭐️ From <a href="https://github.com/affanmustafa909-lgtm">Affan Mustafa</a> | Building Modern & Scalable Web Applications 🚀
 </h3>
