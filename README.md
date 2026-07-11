@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Affan Mustafa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI+Automation+Engineer;Workflow+Automation+%26+n8n+JSON;Full-Stack+Web+Developer;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=PERN+Stack+Developer;AI+Automation+Engineer;Workflow+Automation+%26+n8n+JSON;Full-Stack+Web+Developer;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -77,14 +77,15 @@
 
 ## 🛠️ Tech Stack  
 
-### MERN + Frontend  
+### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,js,ts,html,css" height="50"/>
 </p>
 
 ### Backend & APIs  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,npm,postman" height="50"/>
 </p>
 
 ### Database  
@@ -92,10 +93,11 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
 </p>
 
-### Automation & AI  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,figma" height="50"/></p>
+### Cloud, DevOps & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel,netlify,androidstudio " height="50"/>
+</p>
 ---
 
 ## 🏆 Featured Projects
@@ -103,21 +105,21 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=electron,react,nodejs" height="70"/><br>
+      <img src="https://skillicons.dev/icons?i=electron" height="70"/><br>
       <strong>Enterprise POS System</strong><br>
       Desktop POS with billing, inventory, waiter & rider management.<br><br>
       <strong>Electron • React • PostgreSQL</strong>
     </td>
 
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" height="70"/><br>
+      <img src="https://skillicons.dev/icons?i=react" height="70"/><br>
       <strong>Travel Management System</strong><br>
-      Flight booking platform with secure admin dashboard and ticket management.<br><br>
+      Flight booking platform with admin dashboard and ticket management.<br><br>
       <strong>PERN Stack</strong>
     </td>
 
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,postgres" height="70"/><br>
+      <img src="https://skillicons.dev/icons?i=nextjs" height="70"/><br>
       <strong>E-Commerce Platform</strong><br>
       Modern online store with CMS, order management, and payment integration.<br><br>
       <strong>Next.js • Prisma</strong>
@@ -126,29 +128,27 @@
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nodejs" height="70"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="70"/><br>
       <strong>MindEase AI</strong><br>
-      AI-powered mental wellness platform with smart chat and mood tracking.<br><br>
-      <strong>React • AI APIs</strong>
+      AI-powered mental wellness platform with chat and mood tracking.<br><br>
+      <strong>React • Node.js</strong>
     </td>
-
+ 
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel" height="70"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="70"/><br>
       <strong>Nexvanta Agency</strong><br>
-      Business website for AI, software, and digital solutions with SEO optimization.<br><br>
+      Business website for AI, software, and digital solutions.<br><br>
       <strong>Next.js • Tailwind</strong>
     </td>
 
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github,git,vscode" height="70"/><br>
+      <img src="https://skillicons.dev/icons?i=github" height="70"/><br>
       <strong>Open to Collaboration</strong><br>
-      Building scalable web applications, enterprise software, and innovative digital products.<br><br>
+      Building scalable web applications and enterprise software.<br><br>
       <strong>Let's Build Together 🚀</strong>
     </td>
   </tr>
 </table>
----
-
 <h3 align="center">
 ⭐️ From <a href="https://github.com/affanmustafa909-lgtm">Affan Mustafa</a> | Building Modern & Scalable Web Applications 🚀
 </h3>
