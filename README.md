@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Affan Mustafa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=PERN+Stack+Developer;AI+Automation+Engineer;Workflow+Automation+%26+n8n+JSON;Full-Stack+Web+Developer;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PERN+Stack+Developer;Building+Modern+%26+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Helping+Businesses+Grow+Through+Technology;Open+to+Work" alt="Typing SVG" />
 </p>
 
 ---
