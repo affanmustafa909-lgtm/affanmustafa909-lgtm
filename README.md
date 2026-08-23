@@ -38,9 +38,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=basir2353&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=affanmustafa909-lgtm&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basir2353&custom_title=Basit's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=00C4FF&point=00C4FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=affanmustafa909-lgtm&custom_title=Affan%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=00C4FF&point=00C4FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 
 ## 📊 GitHub Stats  
