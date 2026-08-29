@@ -1,159 +1,308 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<div align="center">
 
-<h1 align="center">👋 Hello, I'm Affan Mustafa</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=180&section=header&text=Affan%20Mustafa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Modern%20Web%20Applications&descAlignY=60&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PERN+Stack+Developer;Building+Modern+%26+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Helping+Businesses+Grow+Through+Technology;Open+to+Work" alt="Typing SVG" />
+# 👋 Hi, I'm Affan Mustafa
+
+### Full-Stack Developer • PERN Stack • SaaS • Enterprise Applications
+
+<p>
+  <a href="https://github.com/affanmustafa909-lgtm">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/affan-mustafa-402b01382/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:affanmustafa909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+923079800829?text=Hi%20Affan%2C%20I%20found%20you%20via%20GitHub">
+    <img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 🔥 Let's Connect  
-
-<div align="center">
-
-<a href="https://github.com/affanmustafa909-lgtm" target="_blank" >
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=fff"></a>
-<a href="https://www.linkedin.com/in/affan-mustafa-402b01382/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff"></a> 
-<a href="mailto:affanmustafa909@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=fff"></a>
-<a href="https://wa.me/+923079800829?text=Hi%20Affan%2C%20I%20found%20you%20via%20GitHub" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=fff"></a>  
+<img src="https://komarev.com/ghpvc/?username=affanmustafa909-lgtm&label=Profile%20Views&color=6366F1&style=flat-square" />
 
 </div>
 
 ---
 
-  
-## 🚀 About Me  
+## 👨‍💻 About Me
 
-💡 Passionate **PERN Stack Developer** focused on building **modern, scalable, and high-performance web applications**.  
-⚡ Experienced in developing **full-stack applications, RESTful APIs, admin dashboards, and enterprise software**.  
-📌 Skilled in **React, Next.js, Node.js, Express.js, PostgreSQL, Prisma, Tailwind CSS, and Electron.js**.  
-🌍 Always learning **AI, System Design, Cloud Computing, and modern software development** while helping businesses grow through technology.
+I'm a **Full-Stack Developer** specializing in building modern, scalable, and business-focused web applications.
 
+I work across the entire development lifecycle — from designing responsive interfaces and building REST APIs to database architecture, authentication, deployment, and production-ready systems.
 
-## 📊 GitHub Stats  
+### What I Build
 
-<div align="center">
+* 🚀 Full-Stack Web Applications
+* 🏢 Enterprise & Business Software
+* 🛒 E-Commerce Platforms
+* 📊 Admin & Management Dashboards
+* 💳 POS & Inventory Systems
+* ✈️ Booking & Management Platforms
+* 🤖 AI-Powered Applications
+* ⚡ SaaS Products & Internal Tools
 
-<img src="https://streak-stats.demolab.com/?user=affanmustafa909-lgtm&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=affanmustafa909-lgtm&custom_title=Affan%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=00C4FF&point=00C4FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
+### Currently Exploring
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=affanmustafa909-lgtm&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=affanmustafa909-lgtm&custom_title=Affan%20Mustafa's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=00C4FF&point=00C4FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanmustafa909-lgtm&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=affanmustafa909-lgtm&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=affanmustafa909-lgtm&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=affanmustafa909-lgtm&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="GitHub Stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=affanmustafa909-lgtm&theme=highcontrast&hide_border=true" alt="Profile Details">
-
-</div>
+**AI Engineering • System Design • Cloud Architecture • Scalable Backend Systems**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Technology Stack
 
 ### Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,js,ts,html,css" height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,typescript,javascript,tailwind,bootstrap,redux,html,css" />
 </p>
 
-### Backend & APIs  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,npm,postman" height="50"/>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,npm,postman" />
 </p>
 
-### Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-### Cloud, DevOps & Tools
+### DevOps, Cloud & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel,netlify,androidstudio " height="50"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,githubactions,androidstudio" />
 </p>
+
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Enterprise_POS_System-4F46E5?style=for-the-badge&logo=electron&logoColor=white"><br><br>
-      <strong>Enterprise POS System</strong><br>
-      Desktop POS with billing, inventory, waiter & rider management.<br><br>
-      <strong>Electron • React • PostgreSQL</strong>
-    </td>
+<tr>
 
-    <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Travel_Management-2563EB?style=for-the-badge&logo=react&logoColor=white"><br><br>
-  <strong>Travel Management System</strong><br>
-  Flight booking platform with admin dashboard, ticket management, and secure authentication.<br><br>
-  <strong>React • Express • PostgreSQL • Prisma</strong>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise POS System
+
+A complete desktop-based POS solution designed for business operations.
+
+**Key Features**
+
+* Billing & invoicing
+* Inventory management
+* Waiter management
+* Rider management
+* Order processing
+* Business reporting
+
+**Stack**
+
+`Electron` `React` `Node.js` `PostgreSQL`
+
 </td>
 
+<td width="50%" valign="top">
 
-    <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/E--Commerce_Platform-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><br><br>
-  <strong>E-Commerce Platform</strong><br>
-  Modern e-commerce website with CMS, product management, orders, and payment integration.<br><br>
-  <strong>Next.js • React • PostgreSQL • Prisma</strong>
-</td>
-  </tr>
+### ✈️ Travel Management System
 
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MindEase_AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"><br><br>
-      <strong>MindEase AI</strong><br>
-      AI-powered mental wellness platform with chat and mood tracking.<br><br>
-      <strong>React • Node.js</strong>
-    </td>
+A full-stack flight booking and management platform with dedicated administrative functionality.
 
-   <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Nexvanta_Agency-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white"><br><br>
-  <strong>Nexvanta Agency</strong><br>
-  Premium business website showcasing AI, software development, SEO, and digital solutions.<br><br>
-  <strong>Next.js • Tailwind CSS • PostgreSQL</strong>
+**Key Features**
+
+* Flight booking
+* Ticket management
+* User authentication
+* Admin dashboard
+* Booking management
+* Database-driven workflows
+
+**Stack**
+
+`React` `Express.js` `PostgreSQL` `Prisma`
+
 </td>
 
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Open_to_Collaborate-22C55E?style=for-the-badge&logo=github&logoColor=white"><br><br>
-  <strong>Open to Collaboration</strong><br>
-  Open to Full-Stack Development, Enterprise Software, SaaS products, and open-source collaborations.<br><br>
-  <strong>PERN Stack • React • Node.js</strong>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platform
+
+A modern commerce platform built for product, order, and content management.
+
+**Key Features**
+
+* Product management
+* Shopping experience
+* Order management
+* CMS functionality
+* Payment integration
+* Admin dashboard
+
+**Stack**
+
+`Next.js` `React` `PostgreSQL` `Prisma`
+
 </td>
 
-  </tr>
+<td width="50%" valign="top">
+
+### 🤖 MindEase AI
+
+An AI-powered mental wellness application focused on conversational experiences and mood tracking.
+
+**Key Features**
+
+* AI conversations
+* Mood tracking
+* User-focused experience
+* Interactive dashboard
+* AI-powered workflows
+
+**Stack**
+
+`React` `Node.js` `AI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Nexvanta Agency
+
+A modern digital agency platform designed to present software, AI, SEO, and technology services.
+
+**Focus**
+
+* Modern UI/UX
+* Responsive design
+* Service presentation
+* Business-focused architecture
+* Scalable web structure
+
+**Stack**
+
+`Next.js` `Tailwind CSS` `PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 More Projects
+
+I'm continuously working on new applications, internal tools, SaaS products, and experiments across full-stack development and AI.
+
+**Areas of Interest**
+
+`SaaS` `AI` `Enterprise Software` `Automation` `Open Source`
+
+</td>
+
+</tr>
 </table>
 
-<h3 align="center">
-⭐️ From <a href="https://github.com/affanmustafa909-lgtm">Affan Mustafa</a> | Building Modern & Scalable Web Applications 🚀
-</h3>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&descAlign=75&descAlignY=67" width="100%">
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=affanmustafa909-lgtm&show_icons=true&hide_border=true&border_radius=12&theme=transparent&title_color=6366F1&icon_color=6366F1" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanmustafa909-lgtm&layout=compact&hide_border=true&border_radius=12&theme=transparent&title_color=6366F1" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=affanmustafa909-lgtm&hide_border=true&border_radius=12&theme=transparent&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=affanmustafa909-lgtm&bg_color=ffffff&color=374151&line=6366F1&point=6366F1&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="95%" />
+
+</div>
+
+---
+
+## 🎯 Development Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚡ Performance
+
+Building fast and efficient applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️ Architecture
+
+Designing maintainable and scalable systems.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 Security
+
+Implementing reliable authentication and secure APIs.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI
+
+Exploring intelligent and automated applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on:
+
+**Full-Stack Applications • SaaS Products • Enterprise Software • AI Applications • Open Source**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/affan-mustafa-402b01382/">
+<img src="https://img.shields.io/badge/Let's%20Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:affanmustafa909@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building reliable software. Solving real problems. 🚀
+
+⭐ If you find my work interesting, consider following my GitHub.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=110&section=footer" width="100%"/>
+
+</div>
