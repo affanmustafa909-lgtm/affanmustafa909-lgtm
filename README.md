@@ -221,17 +221,15 @@ I'm continuously working on new applications, internal tools, SaaS products, and
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=affanmustafa909-lgtm&hide_border=true&border_radius=12&theme=transparent&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<img src="https://streak-stats.demolab.com/?user=affanmustafa909-lgtm&hide_border=true&border_radius=12&theme=transparent&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="70%" />
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=affanmustafa909-lgtm&bg_color=ffffff&color=374151&line=6366F1&point=6366F1&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=affanmustafa909-lgtm&theme=github_dark" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
