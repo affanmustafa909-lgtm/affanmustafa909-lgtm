@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=180&section=header&text=Affan%20Mustafa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Modern%20Web%20Applications&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=180&section=header&text=Affan%20Mustafa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Modern%20WebApp%20Applications&descAlignY=60&descSize=18" width="100%"/>
 
 # 👋 Hi, I'm Affan Mustafa
 
