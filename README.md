@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=180&section=header&text=Affan%20Mustafa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Modern%20WebApp%20Applications&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6366F1&height=180&section=header&text=Affan%20Mustafa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Modern%20Web%20App%20Applications&descAlignY=60&descSize=18" width="100%"/>
 
 # 👋 Hi, I'm Affan Mustafa
 
@@ -29,20 +29,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** specializing in building modern, scalable, and business-focused web applications.
-
-I work across the entire development lifecycle — from designing responsive interfaces and building REST APIs to database architecture, authentication, deployment, and production-ready systems.
+I'm a Full Stack Developer building web, mobile, and business applications—turning ideas into reliable, user-friendly digital solutions.
 
 ### What I Build
 
-* 🚀 Full-Stack Web Applications
-* 🏢 Enterprise & Business Software
-* 🛒 E-Commerce Platforms
-* 📊 Admin & Management Dashboards
-* 💳 POS & Inventory Systems
-* ✈️ Booking & Management Platforms
-* 🤖 AI-Powered Applications
-* ⚡ SaaS Products & Internal Tools
+🚀 Full Stack Web Applications
+📱 Mobile App Development
+🏢 Enterprise & Business Software
+🛒 E-Commerce Platforms
+📊 Admin & Management Dashboards
+💳 POS & Inventory Systems
+✈️ Booking & Travel Platforms
+🤖 AI-Powered Applications
+⚡ SaaS Products & Internal Tools
 
 ### Currently Exploring
 
